@@ -7,7 +7,9 @@ This is the source code and materials for *Artificial intelligence for complex s
 
 ## The links to the course recordings
 第一周 2025-02-27
+
 录制文件：https://meeting.tencent.com/crm/2a0XePZ91f
+
 录制文件：https://meeting.tencent.com/crm/2px6PpL475
 
 ## Outline
