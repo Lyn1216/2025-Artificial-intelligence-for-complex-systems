@@ -18,6 +18,12 @@ This is the source code and materials for *Artificial intelligence for complex s
 
 录制文件：https://meeting.tencent.com/crm/NxgoddVZ32
 
+第三周 2025-03-13
+录制文件：https://meeting.tencent.com/crm/Km3BPw9M5f
+
+第四周 2025-03-20
+录制文件：https://meeting.tencent.com/crm/KwdrWQ3ad6
+
 
 ## Outline
 https://o6n8gxzxdg.feishu.cn/docx/SnetdbMUYo7m5uxELmZcrFKgnjf?from=from_copylink
