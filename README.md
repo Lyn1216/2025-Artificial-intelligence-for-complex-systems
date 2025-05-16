@@ -5,40 +5,6 @@ This is the source code and materials for *Artificial intelligence for complex s
 ## Tencent Meeting
 916-411-4068
 
-## The links to the course recordings
-第一周 2025-02-27
-
-录制文件：https://meeting.tencent.com/crm/2a0XePZ91f
-
-录制文件：https://meeting.tencent.com/crm/2px6PpL475
-
-第二周 2025-03-06
-
-录制文件：https://meeting.tencent.com/crm/K0on5rVk18
-
-录制文件：https://meeting.tencent.com/crm/NxgoddVZ32
-
-第三周 2025-03-13
-
-录制文件：https://meeting.tencent.com/crm/Km3BPw9M5f
-
-第四周 2025-03-20
-
-录制文件：https://meeting.tencent.com/crm/KwdrWQ3ad6
-
-第五周 2025-03-27
-
-录制文件：https://meeting.tencent.com/crm/2Va3nX0Pfe
-
-第六周 2025-04-03
-
-录制文件：https://meeting.tencent.com/crm/lvgxvQrd95
-
-第七周 2025-04-10 
-
-录制文件：https://meeting.tencent.com/crm/2awr6oOjc0
-
-
 ## Outline
 https://o6n8gxzxdg.feishu.cn/docx/SnetdbMUYo7m5uxELmZcrFKgnjf?from=from_copylink
 
